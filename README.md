@@ -16,7 +16,7 @@ pip install networkx
 
 pip install pyvis
 
-<b>and download these model 
+<b>and download these model</b> 
 
 python -m spacy download en_core_web_lg
 
